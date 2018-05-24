@@ -100,5 +100,4 @@ Cuando se abre una nueva _issue_ se le añaden una serie de etiquetas en funció
 
 ## Contacto
 
-* [Nombre del responsable]() - <Vía de contacto>
-* [Nombre del responsable]() - <Vía de contacto>
+* [<author>]() - <email>

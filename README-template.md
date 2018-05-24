@@ -59,12 +59,12 @@ Por favor, ve al fichero [CONTRIBUTING.md](CONTRIBUTING.md) para leer con detall
 
 ## Autores
 
-* **Nombre Apellido** - *Tarea* - [NombreUsuario](https://github.com/NombreUsuario)
+* **<author>** - *Tarea* - [NombreUsuario](https://github.com/NombreUsuario)
 
 
 ## Licencia
 
-Este proyecto esta bajo la licencia <nombre de la licencia> - entra en [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto esta bajo la licencia <licenseName> - entra en [LICENSE.md](LICENSE.md) para más detalles.
 
 
 
