@@ -34,16 +34,16 @@ A continuación, se segieren algunas alternativas:
 Para empezar a trabajar en este proyecto no se requiere de una instalación especial, es suficiente con copiar el contenido del repositorio.
 
 ```
-git clone https://github.com/jcarral/ModeloTFG
+git clone https://github.com/jcarral/Documentacion-TFG
 ```
 
 ## Funcionalidades
 <!--- Enumera las funcionalidades del proyecto --->
 
-* Plantillas para el [README](./README_TEMPLATE.md) o la [guía de contribución](./CONTRIBUTING_TEMPLATE.md)
-* Plantillas con todas las licencias recomendadas en el directorio `licenses/`.
-* Plantillas con los códigos de conducta, en diferentes idiomas, en la carpeta `codesofconduct/`.
-* Plantillas para abrir *issues* o *pull requests* en el directorio `.github/`.
+* Plantillas para el [README]() o la [guía de contribución]()
+* Plantillas con todas las licencias recomendadas en el directorio `docs/{IDIOMA}/licenses/`.
+* Plantillas con los códigos de conducta, en diferentes idiomas, en la carpeta `docs/{IDIOMA}/codesofconduct/`.
+* Plantillas para abrir *issues* o *pull requests* en el directorio `docs/{IDIOMA}/.github/`.
 * Modelo de wiki con todos los documentos necesarios en el directorio `wiki/`.
 
 ## Contributing
