@@ -45,6 +45,7 @@ git clone https://github.com/jcarral/Documentacion-TFG
 * Plantillas con los códigos de conducta, en diferentes idiomas, en la carpeta `docs/{IDIOMA}/codesofconduct/`.
 * Plantillas para abrir *issues* o *pull requests* en el directorio `docs/{IDIOMA}/.github/`.
 * Modelo de wiki con todos los documentos necesarios en el directorio `wiki/`.
+* Ejemplos de TFGs desarrollados siguiendo el modelo propuesto
 
 ## Contributing
 
