@@ -55,7 +55,7 @@ Para este proyecto se utilizan los _issues_ de GitHub.
 Si después de realizar tu trabajo de fin de grado siguiendo un desarrollo _open source_ quieres añadir tu proyecto como ejemplo para que futuros estudiantes puedan consultarlo, debes realizar los siguientes cambios:
 
 1. Crea una carpeta en `examples` con el nombre `tfg-{NOMBRE_USUARIO-GITHUB}`.
-2. En la carpeta que has creado crea un fichero README.md siguiendo la [plantilla para los ejemplos](EXAMPLES.md).
+2. En la carpeta que has creado crea un fichero README.md siguiendo la [plantilla para los ejemplos](./templates/EXAMPLES-ES.md).
 3. Añade en ese directorio todo el material adicional que creas útil. Memoria, imagenes, ...
 4. En el fichero [README.md](./examples/README.md) del directorio `examples` añade a la lista de proyectos el tuyo siguiendo la estructura propuesta.
 5. Abre un pull request con los cambios realizados.
