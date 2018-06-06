@@ -10,7 +10,7 @@
 - [EHUServer](https://github.com/jcarral/EHUApp-server)
 - [EHUApp](https://github.com/jcarral/EHUApp)
 - [Wiki](https://github.com/jcarral/EHUApp/wiki)
-- [TFG Open Source Model](https://github.com/jcarral/Documentacion-TFG)
+- [TFG Open Source Model](https://github.com/jcarral/TFG-OpenSourceModel)
 - [Memoria](./TFG-Memoria.pdf)
 
 ## Resumen del proyecto
