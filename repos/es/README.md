@@ -7,6 +7,7 @@ En este apartado va la descripción del proyecto en un parrafo.
 1. [Primeros pasos](#primeros-pasos)
 	1. [Prerrequisitos](#prerrequisitos)
 	2. [Instalación](#instalación)
+	3. [Uso](#uso)
 2. [Funcionalidades](#funcionalidades)
 3. [Tecnologías](#tecnologías)
 4. [Contributing](#contributing)
@@ -38,6 +39,14 @@ Siguiente paso
 
 ```
 Ejemplo
+```
+
+### Uso
+
+Ejemplos de uso de la herramienta
+
+```
+Ejemplo de uso
 ```
 
 ## Funcionalidades
