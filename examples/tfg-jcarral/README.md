@@ -11,7 +11,7 @@
 - [EHUApp](https://github.com/jcarral/EHUApp)
 - [Wiki](https://github.com/jcarral/EHUApp/wiki)
 - [TFG Open Source Model](https://github.com/jcarral/TFG-OpenSourceModel)
-- [Memoria](./TFG-Memoria.pdf)
+- [Memoria](./TFG.CarralJoseba.pdf)
 
 ## Resumen del proyecto
 
